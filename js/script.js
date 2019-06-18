@@ -1,5 +1,4 @@
 /*****************************************
-Treehouse Fullstack Javascript Techdegree,
 project #3: "Interactive form v1"
 by Michael Greco
 
